@@ -11,8 +11,6 @@ export default class HelloWorldApp extends Component {
        gamertag:'',
        password:'' 
       };
-
-
   }
   SingIn = () => {
    
